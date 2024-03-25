@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="description" content="Area and Perimeter of Rectangle, in PHP" />
+    <meta name="description" content="Area of a Triangle, in PHP" />
     <meta name="keywords" content="mths, ics2o" />
-    <meta name="author" content="Mr. Coxall" />
+    <meta name="author" content="Nathan" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/style.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
     <link rel="manifest" href="site.webmanifest" />
-    <title>Area and Perimeter of Rectangle,in PHP</title>
+    <title>Area of a Triangle, in PHP</title>
   </head>
   <body>
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
@@ -42,6 +42,7 @@
             echo "<br />";
             echo "The area of the triangle is " . $area . " cm².";
             echo "<br />";
+
             ?>
           </div>
         </div>
